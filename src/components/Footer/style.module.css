@@ -1,0 +1,17 @@
+.MainWrapper {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid rgb(194, 190, 190);
+    background-color: rgb(238, 230, 230);
+    height: 20px;
+    padding: 5px;
+}
+
+.BlockWrapper {
+    display: flex;
+    justify-content: space-between;
+}
+
+.BtnWrapper {
+    margin: -4px 10px;
+}

@@ -1,0 +1,47 @@
+a {
+    border: none;
+    text-decoration: none;
+    color: grey;
+    font-size: 12px;
+}
+
+.BtnWrapper {
+    position: absolute;
+    width: 19%;
+    right: 50px;
+    margin-top: 40px;
+    border: 1px solid black;
+    border-radius: 5px;
+    z-index: 1;
+    background: white;
+}
+
+.MainWrapper {
+    display: flex;
+    position: relative;
+    justify-content: flex-end;
+    margin: 5px;
+}
+
+.Btn {
+    width: 50%;
+    border: none;
+    background: none;
+    padding: 10px;
+}
+
+.HrefWrapper {
+    padding: 0 5px;
+}
+
+.BtnShow {
+    border: none;
+    background: none;
+    margin: 0;
+    padding: 0;
+}
+
+.Img {
+    height: 20px;
+    margin-top: 10px;
+}

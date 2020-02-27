@@ -1,0 +1,16 @@
+.Wrapper {
+    text-align: center;
+    margin-top: 10%;
+}
+
+button {
+    border: none;
+    border-radius: 3px;
+    font-size: 5px;
+    height: 20px;
+    margin: 10px 5px;
+}
+
+.A {
+    font-size: 8px;
+}
